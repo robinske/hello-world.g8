@@ -9,5 +9,5 @@ object Main extends App {
 
   val name = readLine("What is your name? ")
 
-  println(s"$greeting, $name!")
+  println(s"${greeting}, ${name}!")
 }
